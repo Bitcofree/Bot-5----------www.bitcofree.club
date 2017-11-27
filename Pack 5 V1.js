@@ -3,7 +3,7 @@ var btc='BILLETERA BTC';
 //api_KEY
 var apikey= 'API KEY'
 //direccion donde se guardara imagen del captcha
-var direct='C:\\Captcha';
+var direct='C:\\Captcha\\';
 
 art1a=1; //elenafaucet
 art2a=1; //artbitcoinfaucet
